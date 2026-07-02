@@ -16,7 +16,7 @@ OpenGL
 GLUT Library
 
 # Controls
-Key	Action
+Key	Action :
 Arrow Keys --> Move player
 ENTER	     --> Start game
 ESC 	     --> Return to menu
