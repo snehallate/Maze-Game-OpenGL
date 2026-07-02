@@ -1,5 +1,4 @@
-# Maze Game using OpenGL 
-# Repository Link: 
+# Maze Game using OpenGL   Repository Link: https://github.com/snehallate/Maze-Game-OpenGL
 A simple Maze Pathfinding Game developed using C language and OpenGL (GLUT).
 The player must navigate through the maze and reach the destination before the timer runs out.
 
