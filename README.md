@@ -34,9 +34,10 @@ Compile using GCC:
 gcc main.c -o maze -lGL -lGLU -lglut
 Run:
 ./maze
-Project Screenshots
 
-Add screenshots inside the screenshots/ folder.
+# Project Screenshots
+
+Add screenshots inside the output/ folder.
 
 # Project Objective
 The project demonstrates:
