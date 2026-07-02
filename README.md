@@ -1,4 +1,5 @@
-# Maze Game using OpenGL
+# Maze Game using OpenGL 
+# Repository Link: 
 A simple Maze Pathfinding Game developed using C language and OpenGL (GLUT).
 The player must navigate through the maze and reach the destination before the timer runs out.
 
