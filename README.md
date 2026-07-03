@@ -38,8 +38,8 @@ sudo apt-get install freeglut3-dev
 ./maze
 
 # Project Screenshots
+<img width="768" height="431" alt="image" src="https://github.com/user-attachments/assets/db4094cd-5615-44a3-917d-083cb481936d" />
 
-Add screenshots inside the output/ folder.
 
 # Project Objective
 The project demonstrates:
